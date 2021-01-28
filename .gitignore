@@ -1,0 +1,15 @@
+# Operating system files
+.DS_Store
+
+# Package node_modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+
+# The build directory
+/dist
+
+# Environment variables 
+.env
